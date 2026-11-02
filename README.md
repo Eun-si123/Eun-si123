@@ -89,6 +89,13 @@ I also enjoy keeping up with **tech news, new products, emerging technologies, a
 
 </details>
 
+<details>
+<summary><strong>Personal Note</strong></summary>
+
+A space for personal thoughts and experiences beyond my projects. Nothing here yet—feel free to skip this section.
+
+</details>
+
 ---
 
 <sub>Still learning. Still building. Thanks for visiting.</sub>
