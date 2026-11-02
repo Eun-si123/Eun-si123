@@ -7,7 +7,7 @@
 **Curious about technology. Learning by building.**
 
 <details>
-<summary><strong>About me · 자기소개 펼쳐보기</strong></summary>
+<summary><strong>About me · 자기소개</strong></summary>
 
 I'm a student from South Korea exploring **AI-assisted development, networking, Android, and game-development tools**. I like turning ideas into experiments, then finding out what actually works.
 
@@ -15,13 +15,17 @@ I enjoy gaming, experimenting with software and devices, and learning how techno
 
 </details>
 
-[Explore my projects](#selected-projects) · [View repositories](https://github.com/Eun-si123?tab=repositories)
+[View repositories](https://github.com/Eun-si123?tab=repositories)
 
 ---
 
-## Selected projects
+<details>
+<summary><strong>Selected projects · 프로젝트 3개</strong></summary>
 
 A few things I'm building, testing, and learning from.
+
+<details>
+<summary><strong>01 / TeamForge</strong> · Unity collaboration</summary>
 
 <table width="100%">
   <tr>
@@ -36,6 +40,11 @@ A few things I'm building, testing, and learning from.
   </tr>
 </table>
 
+</details>
+
+<details>
+<summary><strong>02 / BetterNet</strong> · Android networking</summary>
+
 <table width="100%">
   <tr>
     <td valign="top">
@@ -48,6 +57,11 @@ A few things I'm building, testing, and learning from.
     </td>
   </tr>
 </table>
+
+</details>
+
+<details>
+<summary><strong>03 / DataNetShare</strong> · Connection sharing</summary>
 
 <table width="100%">
   <tr>
@@ -62,11 +76,18 @@ A few things I'm building, testing, and learning from.
   </tr>
 </table>
 
-## What I'm exploring
+</details>
+
+</details>
+
+<details>
+<summary><strong>What I'm exploring · 관심 분야</strong></summary>
 
 `AI-assisted development` · `Android` · `Networking` · `Unity Editor` · `Open source`
 
 I care about practical experiments, clear documentation, and testing behavior on real devices—not just making something look finished.
+
+</details>
 
 ---
 
