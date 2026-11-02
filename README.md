@@ -92,17 +92,17 @@ I also enjoy keeping up with **tech news, new products, emerging technologies, a
 <details>
 <summary><strong>Personal Note</strong></summary>
 
-Sooo... uhhh 그래서. 뭐 털어놓아야지. 그래서 음... 솔직히 아무것도 하기 싫어. 그냥 계속 쉬고 싶어. 이상하게 들릴 수 있지만 어느정도 쉬면 괜찮아야 하는데 그냥 영원히 쉬고 싶음. 그냥 무슨 장소든 공허든 아무 장소에서 혼자서 있고 싶음. 왜인지는 몰라. 그냥 뭐 경쟁이서 쉬고 싶나 보지.
+Sooo... uhhh. Well, I guess I should get some things off my chest. So, um... honestly, I don't feel like doing anything. I just want to keep resting. This might sound weird, but you'd think resting for a while would make things better. Instead, I feel like I want to rest forever. I just want to be alone somewhere, anywhere, even in some kind of empty void. I don't know why. Maybe I'm just tired of all the competition.
 
-평소엔 괜찮다가 언제는 평소에 기분이 왔다갔다하고. 언제는 일상처럼 친구들과 놀고 뭐 가족들이랑 얘기하고 그리고 나중엔 다시 또 기분이 다운되거나 아ㅏㅏ. 도대체 왜 그런지 모르것다.
+Sometimes I feel okay, and other times my mood goes up and down. One moment I'm hanging out with my friends like usual, talking with my family, and then later my mood just drops again. Aaaagh. I seriously don't know why.
 
-몰론 당연히 이미 중학교 언제인지는 모르겠다만 수학은 놓았고, 고1때부터 아슬아슬하더니 뭐 고2는 손 놓았지. 수행평가도,과목들도. 몰론 나도 어느건 배우는게 좋다 그런건 알지. 하지만 뭔가 지친거 같아. 그냥 몇년뒤에도 안할거 같고.
+Of course, I already gave up on math back in middle school, though I don't even remember when exactly. In my first year of high school I was barely hanging on, and by my second year I'd pretty much given up. Assignments, subjects, all of it. Of course I know there are things worth learning. I get that. But I think I'm just exhausted. And I don't think I'll suddenly start doing any of it again a few years from now.
 
-애초에 공부안하면 대학도 못가고 뭐 아무데도 안 받아주지 않을까? 그리고 대학도 못 가서 굶어뒤질거 같고. 솔직히 내가 한심하게 느껴지네.
+If I don't study, won't I fail to get into college? And then who would even want to hire me? I feel like I'll end up not getting into college and starving to death. Honestly, I feel pretty pathetic.
 
-심지어 난 비개발자지만 IT에 관심있어 하지만 뭐함? 난 LLM이 없으면 아무것도 못하는 사람같아. 나도 날 모르겠네.
+And even though I'm interested in IT, I'm not a programmer. So what? I feel like I can't do anything without LLMs. I don't even understand myself anymore.
 
-그리고 가끔씩 이런 생각이 들어. 내가 전에도 착했지만 이렇게 착하게 된게 예전 죄로 인해서 속죄 또는 뭐 내 마음이 편해지길 원해서 이렇게 까지 돈이 안되어도 내가 할 수 있는거 개발을 한다던지 뭐 그러는거 같은데 길이 하나도 보이지가 않는다 ㅎㅎ ㅠ 🥀🥀
+And sometimes I wonder about something else. I've always tried to be kind, but maybe the reason I've become *this* kind is because I'm trying to atone for sins from my past, or because I just want some peace of mind. Maybe that's why I keep developing things I can make, even if they don't earn me any money. But I can't see a way forward at all. Haha... ㅠ 🥀🥀
 
 </details>
 
