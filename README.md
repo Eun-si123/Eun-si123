@@ -83,9 +83,9 @@ A few things I'm building, testing, and learning from.
 <details>
 <summary><strong>What I'm exploring · 관심 분야</strong></summary>
 
-`AI-assisted development` · `Android` · `Networking` · `Unity Editor` · `Open source`
+I'm interested in **IT and technology as a whole**—from AI, software, computers, and hardware to mobile devices, networking, cybersecurity, and games.
 
-I care about practical experiments, clear documentation, and testing behavior on real devices—not just making something look finished.
+I also enjoy keeping up with **tech news, new products, emerging technologies, and industry developments**. I like exploring how things work, trying ideas for myself, and learning through experiments on real devices.
 
 </details>
 
