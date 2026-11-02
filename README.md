@@ -96,11 +96,11 @@ Sooo... uhhh. Well, I guess I should get some things off my chest. So, um... hon
 
 Sometimes I feel okay, and other times my mood goes up and down. One moment I'm hanging out with my friends like usual, talking with my family, and then later my mood just drops again. Aaaagh. I seriously don't know why.
 
-Of course, I already gave up on math back in middle school, though I don't even remember when exactly. In my first year of high school I was barely hanging on, and by my second year I'd pretty much given up. Assignments, subjects, all of it. Of course I know there are things worth learning. I get that. But I think I'm just exhausted. And I don't think I'll suddenly start doing any of it again a few years from now.
+I gave up on math back in middle school, though I don't even remember exactly when. But in high school, it wasn't just math. I didn't give up on everything right away. I was barely hanging on during my first year, and by my second year I'd pretty much stopped trying in every subject. Performance assessments, worksheets, schoolwork... all of it. Even now, I keep thinking I'll try again, but in the end I just don't do it. Of course, I know some things are worth learning. I get that. But I think I'm just exhausted. And I don't know if I'll be doing any better a few years from now.
 
 If I don't study, won't I fail to get into college? And then who would even want to hire me? I feel like I'll end up not getting into college and starving to death. Honestly, I feel pretty pathetic.
 
-And even though I'm interested in IT, I'm not a programmer. So what? I feel like I can't do anything without LLMs. I don't even understand myself anymore.
+And even though I'm interested in IT, I'm not a programmer. So what? I feel like I can't do anything without LLMs. I mean, I'm still doing vibe coding with LLMs, and yeah, it feels pretty good when I actually make something. There's a sense of accomplishment. But even that is starting to feel more and more like a hassle. I keep losing the motivation to do it. I don't even understand myself anymore.
 
 And sometimes I wonder about something else. I've always tried to be kind, but maybe the reason I've become *this* kind is because I'm trying to atone for sins from my past, or because I just want some peace of mind. Maybe that's why I keep developing things I can make, even if they don't earn me any money. But I can't see a way forward at all. Haha... ㅠ 🥀🥀
 
