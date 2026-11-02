@@ -6,7 +6,14 @@
 
 **Curious about technology. Learning by building.**
 
+<details>
+<summary><strong>About me · 자기소개 펼쳐보기</strong></summary>
+
 I'm a student from South Korea exploring **AI-assisted development, networking, Android, and game-development tools**. I like turning ideas into experiments, then finding out what actually works.
+
+I enjoy gaming, experimenting with software and devices, and learning how technology works by building and testing my own projects.
+
+</details>
 
 [Explore my projects](#selected-projects) · [View repositories](https://github.com/Eun-si123?tab=repositories)
 
